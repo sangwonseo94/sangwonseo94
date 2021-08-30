@@ -6,7 +6,8 @@ on:
       branches: [ main ]
     pull_request: 
       branches: [ main ]
-    schedule: - cron: "0 0 */1 * *"
+    schedule:
+        - cron: "0 0 */1 * *"
     
 jobs:
   build: 
@@ -24,13 +25,14 @@ jobs:
         python -m pip install --upgrade pip
         pip install feedparser
     - name: Run Update Python Script
-      run: | python update_readme.py
+      run: |
+        python update_readme.py
     - name: Update README.md file
       run: |
         git pull 
         git add . 
         git diff 
         git config --local user.email "gotkddnjs@naver.com" 
-        git config --local user.name "sangwonseo94"
+        git config --local user.name "Sangwonseo"
         git commit -m "Update README.md"
         git push
