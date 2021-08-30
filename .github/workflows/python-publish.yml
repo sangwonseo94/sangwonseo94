@@ -33,6 +33,6 @@ jobs:
         git add . 
         git diff 
         git config --local user.email "gotkddnjs@naver.com" 
-        git config --local user.name "Sangwonseo"
+        git config --local user.name "sangwonseo94"
         git commit -m "Update README.md"
         git push
