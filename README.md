@@ -1,35 +1,17 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sangwon%20Seo&fontSize=90" />
-
-
-### Software Engineer in WooriFis ( Woori Finance Information System : Period 2020.12 ~ Now )
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangwonseo94&show_icons=true&theme=dracula) 
-<br><br><br>
-#### Problem Solving 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gotkddnjs)](https://solved.ac/gotkddnjs) 
-<!--[![CodeForces Profile](https://cf.leed.at?id=sangwon)](https://codeforces.com/profile/sangwon)  -->
-
-### language
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangwonseo94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/> <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/> <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/> <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" /> <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/> <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"/>
-
-
-
-
-<!--
-**sangwonseo94/sangwonseo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 
+⚡ Email (Company) : sangwonseo@woorifis.com
+⚡ Email (Private) : gotkddnjs@naver.com
+⚡ Software Engineer in WooriFis ( Woori Finance Information System : Period 2020.12 ~ Now )
+⚡ Blog : https://algorithmstudy-mju.tistory.com/
+⚡ [![github stats]  (https://github-readme-stats.vercel.app/api/top-langs/?username=sangwonseo94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://algorithmstudy-mju.tistory.com/)
+⚡ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gotkddnjs)](https://solved.ac/gotkddnjs)<!--[![CodeForces Profile](https://cf.leed.at?id=sangwon)](https://codeforces.com/profile/sangwon)  -->
+⚡ My Blog Post [2021/8/30 - [JAVA] Programmers 위클리 챌린지 1~5주 풀이](https://algorithmstudy-mju.tistory.com/208) <br>
+[2021/8/23 - [JAVA] 프로그래머스 위클리 챌린지 4주차 - 직업군 추천하기](https://algorithmstudy-mju.tistory.com/207) <br>
+[2021/8/21 - BOJ - 5014 ) 스타트링크](https://algorithmstudy-mju.tistory.com/206) <br>
+[2021/8/20 - DTO , VO , Java Beans, POJO](https://algorithmstudy-mju.tistory.com/205) <br>
+[2021/8/1 - BOJ - 2417 ) 정수제곱근](https://algorithmstudy-mju.tistory.com/204) <br>
+[2021/7/29 - BOJ - 11728 ) 배열 합치기](https://algorithmstudy-mju.tistory.com/203) <br>
+[2021/7/28 - BOJ - 12846 ) 무서운 아르바이트](https://algorithmstudy-mju.tistory.com/202) <br>
+[2021/7/27 - BOJ - 1306 ) 달려라 홍준](https://algorithmstudy-mju.tistory.com/201) <br>
+[2021/7/26 - BOJ - 15681 ) 트리와 쿼리](https://algorithmstudy-mju.tistory.com/200) <br>
+[2021/7/19 - 프로그래머스 ) 음양더하기](https://algorithmstudy-mju.tistory.com/199) <br>
