@@ -16,10 +16,14 @@ markdown_text = """  ###
 ⚡ Email (Company) : sangwonseo@woorifis.com  
 ⚡ Email (Private) : gotkddnjs@naver.com  
 ⚡ Software Engineer in WooriFis ( Woori Finance Information System : Period 2020.12 ~ Now )  
-⚡ Blog : https://algorithmstudy-mju.tistory.com/  
+⚡ My Blog Post  (https://algorithmstudy-mju.tistory.com/) """  
+readme_text = f"{markdown_text}{latest_blog_post_list}"
+
+tmp = """
 ⚡ [![github stats]  (https://github-readme-stats.vercel.app/api/top-langs/?username=sangwonseo94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://algorithmstudy-mju.tistory.com/)  
 ⚡ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gotkddnjs)](https://solved.ac/gotkddnjs)<!--[![CodeForces Profile](https://cf.leed.at?id=sangwon)](https://codeforces.com/profile/sangwon)   
-⚡ My Blog Post   """
-readme_text = f"{markdown_text}{latest_blog_post_list}"
+"""
+readme_text += tmp
+
 with open("README.md", 'w', encoding='utf-8') as f: 
     f.write(readme_text)
