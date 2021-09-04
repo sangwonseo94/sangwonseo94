@@ -1,10 +1,10 @@
 ### 
-⚡ Email (Company) : sangwonseo@woorifis.com
-⚡ Email (Private) : gotkddnjs@naver.com
-⚡ Software Engineer in WooriFis ( Woori Finance Information System : Period 2020.12 ~ Now )
-⚡ Blog : https://algorithmstudy-mju.tistory.com/
-⚡ [![github stats]  (https://github-readme-stats.vercel.app/api/top-langs/?username=sangwonseo94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://algorithmstudy-mju.tistory.com/)
-⚡ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gotkddnjs)](https://solved.ac/gotkddnjs)<!--[![CodeForces Profile](https://cf.leed.at?id=sangwon)](https://codeforces.com/profile/sangwon)  -->
+⚡ Email (Company) : sangwonseo@woorifis.com  
+⚡ Email (Private) : gotkddnjs@naver.com  
+⚡ Software Engineer in WooriFis ( Woori Finance Information System : Period 2020.12 ~ Now )  
+⚡ Blog : https://algorithmstudy-mju.tistory.com/  
+⚡ [![github stats]  (https://github-readme-stats.vercel.app/api/top-langs/?username=sangwonseo94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://algorithmstudy-mju.tistory.com/)  
+⚡ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gotkddnjs)](https://solved.ac/gotkddnjs)<!--[![CodeForces Profile](https://cf.leed.at?id=sangwon)](https://codeforces.com/profile/sangwon)  
 ⚡ My Blog Post [2021/8/30 - [JAVA] Programmers 위클리 챌린지 1~5주 풀이](https://algorithmstudy-mju.tistory.com/208) <br>
 [2021/8/23 - [JAVA] 프로그래머스 위클리 챌린지 4주차 - 직업군 추천하기](https://algorithmstudy-mju.tistory.com/207) <br>
 [2021/8/21 - BOJ - 5014 ) 스타트링크](https://algorithmstudy-mju.tistory.com/206) <br>
