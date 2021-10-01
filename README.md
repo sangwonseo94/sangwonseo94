@@ -2,7 +2,7 @@
 ⚡ Email (Company) : sangwonseo@woorifis.com  
 ⚡ Email (Private) : gotkddnjs@naver.com  
 ⚡ Software Engineer in WooriFis ( Woori Finance Information System : Period 2020.12 ~ Now )  
-⚡ My Blog Post  (https://algorithmstudy-mju.tistory.com/) [2021/9/14 - [JAVA] Programmers 위클리 챌린지 1~7주 풀이](https://algorithmstudy-mju.tistory.com/208) <br>
+⚡ My Blog Post  (https://algorithmstudy-mju.tistory.com/) [2021/9/30 - [JAVA] Programmers 위클리 챌린지 1~8주 풀이](https://algorithmstudy-mju.tistory.com/208) <br>
 [2021/9/13 - BOJ - 1120 ) 문자열](https://algorithmstudy-mju.tistory.com/210) <br>
 [2021/9/4 - BOJ - 2056 ) 작업](https://algorithmstudy-mju.tistory.com/209) <br>
 [2021/8/21 - BOJ - 5014 ) 스타트링크](https://algorithmstudy-mju.tistory.com/206) <br>
