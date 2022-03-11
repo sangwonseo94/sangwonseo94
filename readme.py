@@ -17,6 +17,7 @@ markdown_text = """  ###
 ⚡ Email (Private) : gotkddnjs@naver.com  
 ⚡ Software Engineer in WooriFis ( Woori Finance Information System : Period 2020.12 ~ Now )  
 ⚡ My Blog Post  (https://algorithmstudy-mju.tistory.com/)
+
 """  
 readme_text = f"{markdown_text}{latest_blog_post_list}"
 
