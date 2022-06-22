@@ -18,4 +18,6 @@
 <br>
 ⚡ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangwonseo94&show_icons=true&theme=radical)
  
-⚡ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gotkddnjs)](https://solved.ac/gotkddnjs)<!--[![CodeForces Profile](https://cf.leed.at?id=sangwon)](https://codeforces.com/profile/sangwon)   
+⚡ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gotkddnjs)](https://solved.ac/gotkddnjs) <br>
+<br>
+[![CodeForces Profile](https://cf.leed.at?id=sangwon)](https://codeforces.com/profile/sangwon)   
