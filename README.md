@@ -4,6 +4,7 @@
 ⚡ Software Engineer in WooriFis ( Woori Finance Information System : Period 2020.12 ~ Now )  
 ⚡ My Blog Post  (https://algorithmstudy-mju.tistory.com/)
 
+[2022/6/22 - BOJ - 1865 ) 웜홀](https://algorithmstudy-mju.tistory.com/239) <br>
 [2022/6/19 - Ethereum 사이드 체인 VS L2체인](https://algorithmstudy-mju.tistory.com/238) <br>
 [2022/6/17 - SQL 튜닝 기초](https://algorithmstudy-mju.tistory.com/237) <br>
 [2022/5/29 - BOJ - 21609 ) 상어 중학교](https://algorithmstudy-mju.tistory.com/236) <br>
@@ -13,11 +14,6 @@
 [2022/3/11 - BOJ_16928 ) 뱀과 사다리 게임](https://algorithmstudy-mju.tistory.com/233) <br>
 [2022/3/9 - BOJ - 1780 ) 종이의 개수](https://algorithmstudy-mju.tistory.com/232) <br>
 [2022/3/7 - BOJ - 9375 ) 패션왕 신해빈](https://algorithmstudy-mju.tistory.com/231) <br>
-[2022/3/5 - BOJ - 5430 ) AC](https://algorithmstudy-mju.tistory.com/230) <br>
-(https://algorithmstudy-mju.tistory.com/) <br>
-<br>
-⚡ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangwonseo94&show_icons=true&theme=radical)
- 
-⚡ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gotkddnjs)](https://solved.ac/gotkddnjs) <br>
-<br>
-⚡ [![CodeForces Profile](https://cf.leed.at?id=sangwon)](https://codeforces.com/profile/sangwon)   
+
+⚡ [![github stats]  (https://github-readme-stats.vercel.app/api/top-langs/?username=sangwonseo94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://algorithmstudy-mju.tistory.com/)  
+⚡ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gotkddnjs)](https://solved.ac/gotkddnjs)<!--[![CodeForces Profile](https://cf.leed.at?id=sangwon)](https://codeforces.com/profile/sangwon)   
