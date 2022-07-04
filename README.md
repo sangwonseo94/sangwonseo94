@@ -18,3 +18,4 @@
 ⚡  [![github stats]  (https://github-readme-stats.vercel.app/api/top-langs/?username=sangwonseo94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://algorithmstudy-mju.tistory.com/)  
 ⚡ [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=gotkddnjs)](https://solved.ac/gotkddnjs) [![CodeForces Profile](https://cf.leed.at?id=sangwon)](https://codeforces.com/profile/sangwon)   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotkddnjs&show_icons=true&theme=radical)
