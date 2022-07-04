@@ -16,6 +16,6 @@
 [2022/4/20 - BOJ - 21608 ) 상어 초등학교](https://algorithmstudy-mju.tistory.com/235) <br>
 
 (https://codeforces.com/profile/sangwon)    <br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=gotkddnjs)](https://solved.ac/gotkddnjs) [![CodeForces Profile](https://cf.leed.at?id=sangwon)]
+![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=gotkddnjs)](https://solved.ac/gotkddnjs) [![CodeForces Profile](https://cf.leed.at?id=sangwon)] <br>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangwonseo94&show_icons=true&theme=radical)
