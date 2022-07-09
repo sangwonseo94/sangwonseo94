@@ -4,9 +4,9 @@
 ⚡ Software Engineer in WooriFis ( Woori Finance Information System : Period 2020.12 ~ Now )  
 ⚡ My Blog Post  (https://algorithmstudy-mju.tistory.com/)
 
+[2022/7/8 - BOJ - 25307 ) 시루의 백화점 구경](https://algorithmstudy-mju.tistory.com/242) <br>
 [2022/7/4 - BOJ - 25308 ) 방사형 그래프](https://algorithmstudy-mju.tistory.com/244) <br>
 [2022/6/29 - BOJ - 25306 ) 연속 XOR](https://algorithmstudy-mju.tistory.com/243) <br>
-[2022/6/28 - BOJ - 25307 ) 시루의 백화점 구경](https://algorithmstudy-mju.tistory.com/242) <br>
 [2022/6/27 - BOJ - 2559 ) 수열](https://algorithmstudy-mju.tistory.com/241) <br>
 [2022/6/25 - BOJ - 1525 ) 퍼즐](https://algorithmstudy-mju.tistory.com/240) <br>
 [2022/6/22 - BOJ - 1865 ) 웜홀](https://algorithmstudy-mju.tistory.com/239) <br>
